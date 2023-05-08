@@ -15,4 +15,4 @@ TensorFlow
 Keras
 
 ## Results
-The age and gender detection model achieved an accuracy of [insert accuracy percentage] on the test set. The model can accurately predict the age and gender of individuals in images and video streams, making it a valuable tool for various applications, such as security systems and marketing research.
+The age and gender detection model achieved an accuracy of 86% on the test set. The model can accurately predict the age and gender of individuals in images and video streams, making it a valuable tool for various applications, such as security systems and marketing research.
